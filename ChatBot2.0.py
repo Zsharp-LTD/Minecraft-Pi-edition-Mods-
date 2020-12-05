@@ -1,3 +1,4 @@
+#import and rename new modules
 from mcpi.minecraft import Minecraft
 mc = Minecraft.create()
 
